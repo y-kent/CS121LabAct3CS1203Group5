@@ -1,5 +1,7 @@
 # **Furniture Workshop (OOP Program)**
-___
+
+![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
+
 ## Team Members:
 | Name                   | Username                                    | 
 | ---------------------- | :-----------------------------------------: |
@@ -7,15 +9,20 @@ ___
 | Manalo, Cris Julian    | [CrisJulian](https://github.com/CrisJulian) | 
 | Raras, Janna Alexis    | [Jannashii](https://github.com/Jannashii)   |
 | Villan, John David     | [j-davidv](https://github.com/j-davidv)     |
-___
+
+![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 ## System Description
 This Python program simulates assembling and interacting with different types of furniture
-___
+
+![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
+
 ## How to run the program?
 
-___
+![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
+
 ## Acknowledgement
 
-___
+![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
+
 ## Always Remember:
 ![alt text](bible-verses-about-hope-1-1585157294-1.jpg) 
