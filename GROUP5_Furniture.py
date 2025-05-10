@@ -6,7 +6,7 @@ from abc import ABC, abstractmethod
 pygame.mixer.init()
 
 def start_sound():
-    sound_folder = 'sounds/'  # folder where your sound files are stored
+    sound_folder = 'sounds/'
 
     sound_config = {
         'bg_music': (f'{sound_folder}bg.mp3', 0.4, True),
