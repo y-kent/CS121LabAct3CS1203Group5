@@ -13,7 +13,15 @@
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
 ## 💡 System Description
-This is an interactive Python furniture system. It allows users to select and use four types of furniture. Every type of furniture employs **object-oriented programming**.
+
+This project is an **interactive Python furniture system** designed with a menu-driven interface.
+
+🪑 It allows users to:
+
+- Select from **four different types of furniture**
+- Experience behavior based on **object-oriented programming (OOP)** principles
+
+Each furniture type is modeled as subclass, promoting modularity.
 
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
