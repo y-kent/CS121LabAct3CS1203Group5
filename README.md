@@ -28,36 +28,32 @@ This is an interactive Python furniture system. It allows users to select and us
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
 ## ▶️ How to Run the Program?
-Requirements:
+🧰 Requirements:
 ```
 • pygame module
 • Python 3
 ```
 
-**1. Install Python on your device**
-    
-  - You can download it from https://www.python.org if it's not already installed.
+**1. Install Python on your device**  
+- Download it from [python.org](https://www.python.org) if it's not already installed.
 
-**2. Install the `pygame` module.**
+**2. Install the `pygame` module**  
+- Open a terminal or command prompt and type:  
+  ```bash
+  pip install pygame
+  ```
 
-  - Open a terminal or command prompt and type:
-```
-pip install pygame
-```
+**3. Save the code**  
+- Save the program as a Python file, for example:  
+  ```bash
+  furniture_system.py
+  ```
 
-**3. Save the code**
-
-  - Save the code from above as a Python file, for example:
-```
-furniture_system.py
-```
-
-**4. Run the script**
-
-  - In your terminal, navigate to the file location and run:
-```
-python furniture_system.py
-```
+**4. Run the script**  
+- In your terminal, navigate to the file’s location and run:  
+  ```bash
+  python furniture_system.py
+  ```
 
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
