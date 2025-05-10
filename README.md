@@ -12,6 +12,8 @@ ___
 | Raras, Janna Alexis    | Dining Table             |
 | Villan, John David     | Bed                      |
 ___
+# OVERVIEW
+> This Python program simulates assembling and interacting with different types of furniture
 ### The Subclasses used:
 ```python
 class Sofa(Furniture)
