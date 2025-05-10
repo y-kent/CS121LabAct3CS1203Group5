@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
-## 👥 Team Members:
+## 👥 Team Members
 |                                                            | Name                      | GitHub Profile   |
 |------------------------------------------------------------|---------------------------|:----------------:|
 | <img src="https://github.com/y-kent.png" width="60" />     | Macatangay, Alwyn Kent M. | [y-kent](https://github.com/y-kent)                           |
@@ -72,5 +72,5 @@ We also want to thank our groupmates—without your cooperation, this project wo
 
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
-## 🕊️ Always Remember:
+## 🕊️ Always Remember
 ![alt text](bible-verses-about-hope-1-1585157294-1.jpg) 
