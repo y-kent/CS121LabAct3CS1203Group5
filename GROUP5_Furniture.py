@@ -304,7 +304,6 @@ Estimated time: 30 minutes.
             else:
                 print("Invalid choice. Please select again.")
 
-
 class Bookshelf(Furniture):
     def __init__(self, material, style, size, weight_limit, shelves=5):
         super().__init__("Bookshelf", material, style, size, weight_limit)
