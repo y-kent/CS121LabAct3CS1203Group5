@@ -1,4 +1,4 @@
-# **Furniture Workshop (OOP Program)**
+![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/Banner..png "banner.")
 
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
