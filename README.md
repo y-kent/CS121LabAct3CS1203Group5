@@ -3,12 +3,12 @@
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
 ## 👥 Team Members:
-| Name                      | Github Profile                              | 
-| ------------------------- | :-----------------------------------------: |
-| Macatangay, Alwyn Kent M. | [AlwynKent](https://github.com/y-kent)      | 
-| Manalo, Cris Julian V.    | [CrisJulian](https://github.com/CrisJulian) | 
-| Raras, Janna Alexis D.    | [Jannashii](https://github.com/Jannashii)   |
-| Villan, John David M.     | [j-davidv](https://github.com/j-davidv)     |
+|                                                            | Name                      | GitHub Profile   |
+|------------------------------------------------------------|---------------------------|:----------------:|
+| <img src="https://github.com/y-kent.png" width="60" />     | Macatangay, Alwyn Kent M. | [y-kent](https://github.com/y-kent)                           |
+| <img src="https://github.com/CrisJulian.png" width="60" /> | Manalo, Cris Julian V.    | [CrisJulian](https://github.com/CrisJulian) |
+| <img src="https://github.com/Jannashii.png" width="60" />  | Raras, Janna Alexis D.    | [Jannashii](https://github.com/Jannashii)  |
+| <img src="https://github.com/j-davidv.png" width="60" />  | Villan, John David M.      | [j-davidv](https://github.com/j-davidv)                         |
 
 ![alt text](https://github.com/y-kent/CS121LabAct3CS1203Group5/blob/master/BorderLine.gif "border")
 
